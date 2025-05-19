@@ -6,7 +6,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://komarev.com/ghpvc/?username=Prakash-sa&color=dc143c)
+![](https://komarev.com/ghpvc/?username=Prakash-HPE&color=dc143c)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Go-239120?style=for-the-badge&logo=Go&logoColor=white)
@@ -34,17 +34,10 @@
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 📟 GitHub Stats [🔝](#welcome-badges-4-readmemd-profile)
-
-<a href="https://github.com/Prakash-sa/Prakash-sa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prakash-sa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Prakash's GitHub Stats" />
-</a>
-
-
 ## ⏱ Streak Stats [🔝](#welcome-badges-4-readmemd-profile)
 
-<a href="https://github.com/Prakash-sa/Prakash-sa">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakash-sa" alt="Prakash's GitHub Stats" />
+<a href="https://github.com/Prakash-HPE/Prakash-HPE">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakash-HPE" alt="Prakash's GitHub Stats" />
 </a>
 
 
@@ -53,4 +46,4 @@
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊!
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Prakash on LinkedIn" title="Follow Prakash on Linkedin"/>](https://www.linkedin.com/in/prakash-saini-025446166/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Prakash on LinkedIn" title="Follow Prakash on Linkedin"/>](https://www.linkedin.com/in/sainiprakash525/)
